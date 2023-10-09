@@ -1,0 +1,12 @@
+cdn-test.mouseflow.com
+realtime.luckyorange.com
+widgets.pinterest.com
+browser.sentry-cdn.com
+api.bugsnag.com
+app.bugsnag.com
+notes-analytics-events.apple.com
+fwtracks.freshmarketer.com
+tools.mouseflow.com
+adtech.yahooinc.com
+events.hotjar.io
+notify.bugsnag.com
